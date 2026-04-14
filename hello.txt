@@ -1,3 +1,4 @@
 Bonjour Git
 Modification dans une branche
 Nouvelle ligne depuis feature branch
+Ligne A
